@@ -1,0 +1,28 @@
+.image{
+    height: 100px;
+    width: 100px;
+}
+
+.title{
+    color: rgb(112, 49, 24);
+    font-weight: bold;
+}
+
+.content{
+    margin-left: 10%;
+}
+
+.img-content{
+    margin-left: 80%;
+    margin-top: 10%;
+}
+.recipe-button{
+    margin-bottom: 50%;
+    margin-top: 10%;
+    
+    
+}
+
+.cell-width{
+    width: 200px;
+}
